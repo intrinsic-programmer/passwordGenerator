@@ -1,6 +1,4 @@
-import string
-import random
-
+import string, random
 
 letters=string.ascii_letters
 digits=string.digits
